@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @LeomarYT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Oi, eu sou @LeomarYT
+- 👀 Tenho interesse em fasser aula de comportamento computacional 
+- 🌱 Estou aprendendo a fazer jogos
+- 💞️ Estou procurando colaborar em aulas de comportamento computacional 
+- 📫 Como chegar até mim pelas redes sosiais @ousado.yt.ff
 
 <!---
-LeomarYT/LeomarYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+leomarYT/LeomarYT é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+
+Você pode clicar no link Visualizar para dar uma olhada nas suas alterações.
 --->
