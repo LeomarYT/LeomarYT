@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou @LeomarYT
 - 👀 Tenho interesse em fasser aula de comportamento computacional 
 - 🌱 Estou aprendendo a fazer jogos
-- 💞️ Estou procurando colaborar em aulas de comportamento computacional 
+- 💞️ Estou procurando colaborar em aulas de pensamento computacional
 - 📫 Como chegar até mim pelas redes sosiais @ousado.yt.ff
 
 <!---
