@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @LeomarYT
+- 👋 Oi, eu sou @LeomarYT S2
 - 👀 Tenho interesse em façer aula de comportamento computacional 
 - 🌱 Estou aprendendo a fazer jogos
 - 💞️ Estou procurando colaborar em aulas de pensamento computacional
